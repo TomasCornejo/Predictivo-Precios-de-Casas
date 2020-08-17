@@ -11,4 +11,9 @@ En general se seguirá una estructura de : Exploración de variables, Función d
 1er Entrega: Baseline
 
 Modelo creado a partir solo de las variables numéricas que tienen alta correlación con la variable dependiente, a modo Baseline para tener un punto de partida.
+Los resultadosen la primera entrega son:
 
+Linear        | MSLE = 0.033
+Tree          | MSLE = 0.047
+RandomForest  | MSLE = 0.025
+MultiLayer    | MSLE = 0.045
