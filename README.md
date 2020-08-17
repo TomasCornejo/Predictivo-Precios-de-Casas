@@ -14,6 +14,9 @@ Modelo creado a partir solo de las variables numéricas que tienen alta correlac
 Los resultadosen la primera entrega son:
 
 Linear        | MSLE = 0.033
+
 Tree          | MSLE = 0.047
+
 RandomForest  | MSLE = 0.025
+
 MultiLayer    | MSLE = 0.045
