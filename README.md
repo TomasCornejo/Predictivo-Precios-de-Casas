@@ -12,6 +12,14 @@ Para desarrollar esta solución se seguiran las siguiente metodología:
 
 ![Flujo](https://github.com/TomasCornejo/PredictivoVariableContinua/blob/master/img/FlujoDeTrabajo.jpg)
 
+### Análisis Descriptivo
+
+En este paso se generaron dos reportes usando pandas-profiling:
+
+Para el Dataset de [Entrenamiento]() y para el de [Testeo]()
+
+
+
 1er Entrega: Baseline
 
 Modelo creado a partir solo de las variables numéricas que tienen alta correlación con la variable dependiente, a modo Baseline para tener un punto de partida.
