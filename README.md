@@ -10,6 +10,7 @@ La principal idea es plantear el problema y mostrar como es la forma de trabajo 
 
 Para desarrollar esta solución se seguiran las siguiente metodología:
 
+![alt text](http://url/to/img.png)
 
 1er Entrega: Baseline
 
