@@ -1,4 +1,4 @@
-# Precios de Casas - Predictivo 
+# Precios de Casas - Predictivo <img src="https://github.com/TomasCornejo/PredictivoVariableContinua/blob/master/img/House%20Logo.jpg" width="60" height="60" />
 
 Este trabajo es un modelo predictivo para una variable continua usando una base extraida de las competiciones Kaggle.
 
