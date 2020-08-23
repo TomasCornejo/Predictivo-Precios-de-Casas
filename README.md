@@ -1,4 +1,4 @@
-# PredictivoVariableContinua
+# Precios de Casas - Predictivo 
 
 Este trabajo es un modelo predictivo para una variable continua usando una base extraida de las competiciones Kaggle.
 
