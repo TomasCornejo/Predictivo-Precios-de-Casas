@@ -6,13 +6,17 @@ El dataset está conformado por información de casas donde las variables indepe
 
 La principal idea es plantear el problema y mostrar como es la forma de trabajo que utilizo para solucionarlo.
 
-En general se seguirá una estructura de : Exploración de variables, Función de Prepocesamiento, Función de Prueba de Modelos, Modelos,Creacion de Resultado. 
+## Metodología
+
+Para desarrollar esta solución se seguiran las siguiente metodología:
+
 
 1er Entrega: Baseline
 
 Modelo creado a partir solo de las variables numéricas que tienen alta correlación con la variable dependiente, a modo Baseline para tener un punto de partida.
 Los resultadosen la primera entrega son:
 
+```
 Linear        | MSLE = 0.033
 
 Tree          | MSLE = 0.047
@@ -20,3 +24,4 @@ Tree          | MSLE = 0.047
 RandomForest  | MSLE = 0.025
 
 MultiLayer    | MSLE = 0.045
+```
