@@ -16,7 +16,7 @@ Para desarrollar esta solución se seguiran las siguiente metodología:
 
 En este paso se generaron dos reportes usando pandas-profiling:
 
-Para el Dataset de [Entrenamiento]() y para el de [Testeo]()
+Para el Dataset de [Entrenamiento](https://github.com/TomasCornejo/Predictivo-Precios-de-Casas/blob/master/train_ds.html) y para el de [Testeo](https://github.com/TomasCornejo/Predictivo-Precios-de-Casas/blob/master/test_ds.html) (Para visualización de los reportes descargar)
 
 
 
