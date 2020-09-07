@@ -108,7 +108,7 @@ XGBoost - MSLE = 0.0185
 
 Lo que si es una mejora suficiente respecto al anterior dejando este como el modelo final(Todos los detalles de el preprocesamiento, baseline y entrenamiento pueden encontrarse en el archivo [HousePricing.ipynb](https://github.com/TomasCornejo/Predictivo-Precios-de-Casas/blob/master/HousePricing.ipynb) )
 
-Además la implementación quedará en el archivo 
+Además la implementación quedará en el archivo [modeloPrecioCasa.py](https://github.com/TomasCornejo/Predictivo-Precios-de-Casas/blob/master/modeloPrecioCasa.py)
 
 Dicha implementación es un script de python que toma un dataframe de las columnas en cuestión y genera la predicción en un csv.
 
